@@ -1,7 +1,4 @@
-CS725: Foundation of machine learning
-IIT Bombay
-
-Project title: Prediction-of-Fire-radiative-power-during-forest-fires-using-Linear-regression
+Project title: Prediction-of-Fire-during-forest-fires-using-Linear-regression
 
 Linear Regression model from scratch was used to predict Fire radiative power based on dataset collected from two satellites terra and aqua. Dataset is recorded from fire in forests of australia.
 
